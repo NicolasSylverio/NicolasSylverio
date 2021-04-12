@@ -4,7 +4,7 @@ Here are some about me to get you started:
 
 - 🔭 I’m currently working at [Beatrix.io](https://beatrix.io) as Software and Product Engineer
 - 🌱 I’m currently learning Software and Solution Architecture, Cloud and DevOps lifecicle.
-- :muscle: Main knowledge in .NET, microservices and Cloud Native Apps.
+- :muscle: Main knowledge in .NET, Microservices, Cloud and Cloud Native Apps.
 
 
 #### Follow me on my social networks:
