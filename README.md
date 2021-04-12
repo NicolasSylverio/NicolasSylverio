@@ -8,5 +8,5 @@ Here are some about me to get you started:
 
 
 #### Follow me on my social networks:
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/NicolasSylverio)](https://github.com/eduardopires)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolas-sylverio/)](https://www.linkedin.com/in/pireseduardo/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/NicolasSylverio)](https://github.com/NicolasSylverio)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolas-sylverio/)](https://www.linkedin.com/in/nicolas-sylverio/)
