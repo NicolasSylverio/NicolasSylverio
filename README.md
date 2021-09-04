@@ -2,7 +2,7 @@
 
 Here are some about me to get you started:
 
-- 🔭 I’m currently working at [Xp.Inc](https://www.xpinc.com/) as Software and Product Engineer
+- 🔭 I’m currently working at [Xp.Inc](https://www.xpinc.com/) as Software Engineer
 - 🌱 I’m currently learning Software and Solution Architecture, Cloud and DevOps lifecicle.
 - :muscle: Main knowledge in .NET, Microservices, Cloud and Cloud Native Apps.
 - :trophy: Check my repos specially my Graduation Completion project [Fatec](https://github.com/NicolasSylverio/Fatec) and most Recent POC [OData-Poc](https://github.com/NicolasSylverio/OData-Poc)
